@@ -1,74 +1,68 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=OPERATOR:%20AFSAL&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=409EFF" width="100%" />
 </div>
 
 <div align="center">
-  <h1><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&pause=1000&color=A855F7&vCenter=true&center=true&width=500&lines=MUHAMMED+AFSAL+C;Cyber+Security+Analyst" /></h1>
-  <p><b>VAPT • SOC • AWS SECURITY • CEH CERTIFIED</b></p>
+  <h1><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=32&pause=1000&color=409EFF&vCenter=true&center=true&width=500&lines=MUHAMMED+AFSAL+C;CYBER+SECURITY+ANALYST;VAPT+%E2%80%A2+SOC+%E2%80%A2+CLOUD" /></h1>
   
+  <p align="center">
+    <code>ESTABLISHING SECURE CONNECTION...</code><br>
+    <code>[####################] 100%</code>
+  </p>
+
   <p>
-    <a href="https://www.linkedin.com/in/muhammedafsalc/"><img src="https://img.shields.io/badge/LINKEDIN-A855F7?style=for-the-badge&logoColor=white" /></a>
-    <a href="mailto:muhammedafsalself@gmail.com"><img src="https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logoColor=white" /></a>
-    <a href="https://rootedbyafsal.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-00D2FF?style=for-the-badge&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/muhammedafsalc/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logoColor=409EFF&logo=linkedin" /></a>
+    <a href="mailto:muhammedafsalself@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logoColor=409EFF&logo=gmail" /></a>
+    <a href="https://rootedbyafsal.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-409EFF?style=for-the-badge&logoColor=white" /></a>
   </p>
 </div>
 
 ---
 
-### � MISSION_PROFILE
-> **Focus:** Bridging the gap between offensive exploitation and defensive hardening. Specialized in cloud-native security and automated vulnerability research.
+### 📂 // 01. EXECUTIVE_BRIEFING
+> **Core Competency:** Transitioning from offensive exploitation to architectural defense. Specialized in AWS Cloud Security, automated forensic analysis, and enterprise-grade VAPT.
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" style="border: 2px solid #A855F7; border-radius: 10px; padding: 20px;">
-      <h4>🔭 Current Directives</h4>
-      <ul>
-        <li>Developing automated VAPT frameworks.</li>
-        <li>Hardening AWS cloud infrastructures.</li>
-        <li>Researching zero-day exploitation paths.</li>
-      </ul>
-    </td>
-    <td width="50%" style="border: 2px solid #00D2FF; border-radius: 10px; padding: 20px;">
-      <h4>⚙️ Operational Stack</h4>
-      <code>Python</code> <code>Bash</code> <code>JavaScript</code> <code>AWS</code><br>
-      <code>Splunk</code> <code>Nmap</code> <code>Burp Suite</code> <code>SIEM</code><br>
-      <code>Linux</code> <code>Git</code> <code>Metasploit</code> <code>SQLi</code>
-    </td>
-  </tr>
-</table>
+- 🎯 **Current Objective:** Developing next-gen autonomous security frameworks.
+- ☁️ **Primary Domain:** Hardening multi-region AWS environments and cloud-native apps.
+- 🔬 **Intelligence:** Investigating zero-day vulnerability exploitation paths.
 
 ---
 
-### ⚔️ TOP_OPERATIONS
-<div align="center">
+### 🛠️ // 02. TECHNICAL_CAPABILITIES
 
-| STATUS | PROJECT | MISSION OBJECTIVE |
-| :--- | :--- | :--- |
-| 🟢 | [**Bug Bounty Gen**](https://bugbounty-commands.vercel.app/) | Centralized command repository for high-speed pentesting. |
-| 🛡️ | [**File extractor**](https://github.com/HackByteX/FileExtractor) | Automated forensic tool for evidence extraction & duplication. |
-| ☁️ | [**AWS Audit**](https://github.com/HackByteX) | Security auditing framework for multi-region AWS environments. |
-| ⚠️ | [**WAPT Assessment**](https://github.com/HackByteX) | In-depth security audit of enterprise-grade web applications. |
-
-</div>
+| CATEGORY | STACK & TOOLS |
+| :--- | :--- |
+| **OFFENSIVE** | `Nmap` • `Burp Suite` • `Metasploit` • `SQLi` • `WAPT` |
+| **DEFENSIVE** | `SOC` • `SIEM` • `Splunk` • `AWS Security` • `Hardening` |
+| **DEVELOPMENT** | `Python` • `Bash` • `JavaScript` • `Git` • `Linux` |
 
 ---
 
-### � PERFORMANCE_LOGS
+### ⚔️ // 03. ACTIVE_OPERATIONS
+
+*   [**Bug Bounty Gen**](https://bugbounty-commands.vercel.app/) — *High-velocity pentesting command hub.* `Pentest` `Automation`
+*   [**File Extractor**](https://github.com/HackByteX/FileExtractor) — *Digital forensic tool for evidence preservation.* `Forensics` `Python`
+*   [**AWS Audit Framework**](https://github.com/HackByteX) — *Automated cloud security auditing suite.* `AWS` `Boto3`
+*   [**WAPT Assessment**](https://github.com/HackByteX) — *Enterprise web security evaluation methodology.* `WAPT` `Burp`
+
+---
+
+### 📊 // 04. SYSTEM_TELEMETRY
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HackByteX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0&icon_color=00D2FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackByteX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HackByteX&show_icons=true&theme=transparent&hide_border=true&title_color=409EFF&text_color=E2E8F0&icon_color=409EFF&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackByteX&layout=compact&theme=transparent&hide_border=true&title_color=409EFF&text_color=E2E8F0&bg_color=0D1117" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HackByteX&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=A855F7&line=A855F7&point=00D2FF" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HackByteX&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=409EFF&line=409EFF&point=FFFFFF" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HackByteX&style=flat-square&color=A855F7" />
-  <p><code>LAST_SYNC: 2026-02-24</code></p>
+  <img src="https://komarev.com/ghpvc/?username=HackByteX&style=flat-square&color=409EFF" />
+  <p><code>TRANS_LOG: 2026-02-24 // SECURE_LINE: ACTIVE</code></p>
 </div>
 
