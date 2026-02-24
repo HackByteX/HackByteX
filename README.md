@@ -20,7 +20,7 @@
 
 ---
 
-### ✦ System Overview
+### ✦ About Me
 
 Cybersecurity professional focused on identifying real-world vulnerabilities, validating exploitation impact, and strengthening security posture. Experienced in web application penetration testing and cloud security hardening.
 
