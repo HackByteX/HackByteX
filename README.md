@@ -1,91 +1,79 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Muhammed%20Afsal%20C&fontSize=65&fontAlignY=35&animation=twinkling&theme=dark" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=10B981&vCenter=true&center=true&width=500&lines=root@HackByteX:~$;Muhammed+Afsal+C;Cyber+Security+Analyst;Pentester+%7C+SOC+%7C+AWS" />
-
+  
+  ### 🛡️ Cyber Security Analyst | VAPT | SOC | AWS Security
+  
+  **"Approaching security from both attacker and defender perspectives."**
+  
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-Scanning_Vulnerabilities-10B981?style=flat-square&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Focus-Cyber_Defense-10B981?style=flat-square" />
+    <a href="https://www.linkedin.com/in/muhammedafsalc/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:muhammedafsalself@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://rootedbyafsal.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    </a>
   </p>
 </div>
 
 ---
 
-### � system_info.log
-```json
-{
-  "name": "Muhammed Afsal C",
-  "role": "Cybersecurity Analyst",
-  "specialization": ["VAPT", "SOC Operations", "Cloud Security"],
-  "mission": "Bridging the gap between offensive exploitation and defensive hardening.",
-  "location": "Digital Frontier"
-}
-```
+### 🚀 About Me
+I am a dedicated **Cybersecurity Professional** focused on identifying real-world vulnerabilities and strengthening digital infrastructure. I bridge the gap between **Offensive Security (Pentesting)** and **Defensive Strategy (SOC Operations)**, with a deep specialization in **AWS Cloud Hardening**.
+
+- 🔭 **Focusing on:** Cloud-Native Security & Automated VAPT Frameworks.
+- 🌱 **Currently refining:** Advanced Malware Analysis & Threat Intelligence.
+- ⚡ **Passion:** Building tools that make security accessible and automated.
 
 ---
 
-### �️ technical_stack.sh
+### 🛠️ Technical Expertise
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,js,linux,aws,splunk,git,react,vscode,discord" />
+  <img src="https://skillicons.dev/icons?i=python,bash,js,linux,aws&perline=5" />
+  <img src="https://skillicons.dev/icons?i=splunk,git,react,vscode,discord&perline=5" />
 </div>
 
-<br>
-
-| 💀 Offensive | 🛡️ Defensive | ☁️ Infrastructure |
-| :--- | :--- | :--- |
-| `Burp Suite` `Nmap` | `Splunk` `SIEM` | `AWS Security` |
-| `Metasploit` `SQLi` | `Threat Hunting` | `IAM Hardening` |
-| `Pentesting` `XSS` | `Log Analysis` | `Compliance (CIS)` |
-
----
-
-### 🚀 featured_exploits.md
-
-#### ⚡ [Bug Bounty Commands Generator](https://bugbounty-commands.vercel.app/)
-> A centralized repository for categorized commands for Nmap, SQLi, and XSS.
-> `React` `JavaScript` `Automation`
-
-#### 🔍 [Automated File Forensics Tool](https://github.com/HackByteX/FileExtractor)
-> Python-based CLI for automated extraction and analysis of forensic artifacts.
-> `Python` `Digital Forensics` `CLI`
-
-#### 🏗️ [Cloud Security Audit Framework](https://github.com/HackByteX)
-> CIS benchmark-aligned security auditing for AWS environments.
-> `AWS` `CloudTrail` `GuardDuty`
-
----
-
-### 📊 system_metrics.exe
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HackByteX&show_icons=true&theme=transparent&hide_border=true&title_color=10B981&text_color=E2E8F0&icon_color=34D399" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackByteX&layout=compact&theme=transparent&hide_border=true&title_color=10B981&text_color=E2E8F0" />
+  <br>
+  <code>Burp Suite</code> • <code>Nmap</code> • <code>Metasploit</code> • <code>SIEM</code> • <code>OWASP WSTG</code> • <code>CIS Benchmarks</code>
+</div>
+
+---
+
+### � Featured Work
+
+**[Bug Bounty Commands Generator](https://bugbounty-commands.vercel.app/)**
+> An open-source, web-based tool for instantly browsing and copying pentesting commands. Built with React and designed for speed in the field.
+
+**[Automated File Forensics Tool](https://github.com/HackByteX/FileExtractor)**
+> A Python CLI utility for automated extraction and preservation of digital evidence during incident response.
+
+**[Cloud Security Audit Framework](https://github.com/HackByteX)**
+> Comprehensive security auditing templates and scripts for AWS infrastructure following CIS benchmarks.
+
+---
+
+### 📊 Security Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HackByteX&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=61dafb&icon_color=61dafb" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackByteX&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=61dafb" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HackByteX&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=10B981&line=10B981&point=34D399" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HackByteX&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=61dafb&line=61dafb&point=ffffff" />
 </div>
 
 ---
 
-### 📡 network_nodes.connect
 <div align="center">
-  <a href="https://www.linkedin.com/in/muhammedafsalc/"><img src="https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:muhammedafsalself@gmail.com"><img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/HackByteX"><img src="https://img.shields.io/badge/X-10B981?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://medium.com/@HackByteX"><img src="https://img.shields.io/badge/Medium-10B981?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=HackByteX&style=flat-square&color=61dafb" />
+  <p><i>System Last Updated: 2026-02-24</i></p>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HackByteX&style=flat-square&color=10B981" />
-</div>
-
-<p align="center">
-  <code>LAST_SYNC: 2026-02-24</code>
-</p>
 
