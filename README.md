@@ -78,10 +78,10 @@ Cybersecurity professional focused on identifying real-world vulnerabilities, va
 
 | Deploy Status | Project & Telemetry Data | Tech Infrastructure |
 |:---:|:---|:---|
-| 🟢 | **[Bug Bounty Commands Generator](https://bugbounty-commands.vercel.app/)**<br><span style="color:#A3B8CC;">An open-source, web-based tool to instantly browse and copy categorized commands for common pentesting tasks.</span> | `React` `JavaScript` `Automation` |
-| 🟢 | **[Automated File Forensics Tool](https://github.com/HackByteX/FileExtractor)**<br><span style="color:#A3B8CC;">Developed a Python-based CLI tool to extract specific file types from large directory structures for digital forensics workflows.</span> | `Python` `Forensics` `CLI Scripting` |
-| � | **Web Application Security Assessment**<br><span style="color:#A3B8CC;">Conducted an in-depth security assessment of a web app following OWASP WSTG v4.2 methodology. Identified 27 vulnerabilities.</span> | `OWASP` `Pentesting` `AppSec` |
-| 🔵 | **Cloud Security Audit (AWS)**<br><span style="color:#A3B8CC;">Performed security audit of AWS cloud infrastructure following CIS benchmarks. Identified misconfigurations & implemented monitoring.</span> | `AWS` `IAM` `Cloud Security` |
+| <span style="color:#00F0FF;">🟢</span> | **[Bug Bounty Commands Generator](https://bugbounty-commands.vercel.app/)**<br><span style="color:#A3B8CC;">An open-source, web-based tool to instantly browse and copy categorized commands for common pentesting tasks.</span> | `React` `JavaScript` `Automation` |
+| <span style="color:#00F0FF;">🟢</span> | **[Automated File Forensics Tool](https://github.com/HackByteX/FileExtractor)**<br><span style="color:#A3B8CC;">Developed a Python-based CLI tool to extract specific file types from large directory structures for digital forensics workflows.</span> | `Python` `Forensics` `CLI Scripting` |
+| <span style="color:#FF007F;">🔴</span> | **Web Application Security Assessment**<br><span style="color:#A3B8CC;">Conducted an in-depth security assessment of a web app following OWASP WSTG v4.2 methodology. Identified 27 vulnerabilities.</span> | `OWASP` `Pentesting` `AppSec` |
+| <span style="color:#8A2BE2;">🔵</span> | **Cloud Security Audit (AWS)**<br><span style="color:#A3B8CC;">Performed security audit of AWS cloud infrastructure following CIS benchmarks. Identified misconfigurations & implemented monitoring.</span> | `AWS` `IAM` `Cloud Security` |
 
 <br>
 
@@ -91,7 +91,7 @@ Cybersecurity professional focused on identifying real-world vulnerabilities, va
   <img src="https://github-readme-stats.vercel.app/api?username=HackByteX&show_icons=true&bg_color=0D1117&title_color=00F0FF&text_color=A3B8CC&icon_color=FF007F&border_color=161B22&hide_border=false" width="49%" />
   <img src="https://streak-stats.demolab.com?user=HackByteX&background=0D1117&ring=00F0FF&fire=FF007F&currStreakNum=A3B8CC&sideNums=A3B8CC&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=A3B8CC&border=161B22&hide_border=false" width="49%" />
   <br>
-  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=HackByteX&bg_color=0D1117&color=A3B8CC&line=00F0FF&point=FF007F&area_color=161B22&area=true&hide_border=false" />
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=HackByteX&bg_color=0D1117&color=A3B8CC&line=00F0FF&point=FF007F&area_color=161B22&area=true&hide_border=false&custom_title=Contributions" />
 </div>
 
 <br>
