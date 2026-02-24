@@ -1,66 +1,99 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%" height="250px" style="object-fit: cover; border-radius: 8px;" />
+  <br><br>
   
-# Muhammed Afsal C
-**Strategic Security Analyst** • **Cloud Resilience** • **Offensive Innovation**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://rootedbyafsal.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammedafsalc/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedafsalself@gmail.com)
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header" width="100%" />
-
+  <a href="https://rootedbyafsal.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=A855F7&vCenter=true&center=true&width=600&lines=Muhammed+Afsal+C;Cyber+Security+Analyst;Cloud+%2B+Offensive+Security" />
+  </a>
+  <br>
+  <i style="color:#A0AEC0;">"Approaching security from both attacker and defender perspectives."</i>
 </div>
 
-### ✦ About Me  
+<br>
 
-I am a security professional dedicated to developing high-fidelity security architectures and automated vulnerability assessment frameworks. My work revolves around bridging the gap between raw exploit data and actionable defensive strategies. 
-
-▸ **Certifications:** CEH (Certified Ethical Hacker)  
-▸ **Cloud Expertise:** AWS Security & Architecture  
-▸ **Core Focus:** VAPT (Vulnerability Assessment & Penetration Testing)
-
----
-
-### ✦ Technical Arsenal  
-
-**Offensive Security**  
-`Nmap` `Burp Suite` `Vulnerability Assessment`
-
-**Defensive Security**  
-`Splunk` `SIEM Hardening` `Incident Response`
-
-**Automation & Scripting**  
-`Python` `Bash` `Boto3`
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammedafsalc/"><img src="https://img.shields.io/badge/LinkedIn-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" /></a>
+  <a href="mailto:muhammedafsalself@gmail.com"><img src="https://img.shields.io/badge/Email-1E1B4B?style=for-the-badge&logo=gmail&logoColor=8B5CF6" /></a>
+  <a href="https://github.com/HackByteX"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=8B5CF6" /></a>
+  <a href="https://rootedbyafsal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1E1B4B?style=for-the-badge&logo=safari&logoColor=8B5CF6" /></a>
+</p>
 
 ---
 
-### ✦ Featured Operations  
+### ✦ System Overview
 
-> **[Bug Bounty Gen](https://bugbounty-commands.vercel.app/)**  
-> An automated command hub tailored for Cyber-Ops and streamlined bug bounty operations.
+Cybersecurity professional focused on identifying real-world vulnerabilities, validating exploitation impact, and strengthening security posture. Experienced in web application penetration testing and cloud security hardening.
 
-> **[File Extractor](https://github.com/HackByteX/FileExtractor)**  
-> Python-based digital forensics suite for deep-file extraction and analysis.
+<p>
+  <img src="https://img.shields.io/badge/Cert-CEH_Certified-1E1B4B?style=flat-square&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/Cert-AWS_Security-1E1B4B?style=flat-square&logoColor=A855F7" />
+</p>
 
-> **[AWS Audit](https://github.com/HackByteX)**  
-> Multi-region auditing framework leveraging Python for comprehensive Cloud-Sec visibility.
+<br>
 
----
+### ✦ Technical Arsenal
 
-### ✦ Mission Telemetry  
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>⚔️ Offensive Security</b><br>
+      <img src="https://img.shields.io/badge/Burp_Suite-1E1B4B?style=flat-square&logo=burpsuite&logoColor=A855F7" />
+      <img src="https://img.shields.io/badge/Nmap-1E1B4B?style=flat-square&logo=nmap&logoColor=A855F7" />
+      <img src="https://img.shields.io/badge/Metasploit-1E1B4B?style=flat-square&logo=metasploit&logoColor=A855F7" />
+      <img src="https://img.shields.io/badge/SQLMap-1E1B4B?style=flat-square&logo=linux&logoColor=A855F7" />
+      <img src="https://img.shields.io/badge/Gobuster-1E1B4B?style=flat-square&logo=kalilinux&logoColor=A855F7" />
+    </td>
+    <td width="50%" valign="top">
+      <b>🛡️ SOC & Defensive Security</b><br>
+      <img src="https://img.shields.io/badge/Splunk-1E1B4B?style=flat-square&logo=splunk&logoColor=8B5CF6" />
+      <img src="https://img.shields.io/badge/MITRE_ATT&CK-1E1B4B?style=flat-square&logoColor=8B5CF6" />
+      <img src="https://img.shields.io/badge/Threat_Hunting-1E1B4B?style=flat-square&logoColor=8B5CF6" />
+      <img src="https://img.shields.io/badge/Log_Analysis-1E1B4B?style=flat-square&logoColor=8B5CF6" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🌩️ Cloud & Infrastructure (AWS)</b><br>
+      <img src="https://img.shields.io/badge/Amazon_AWS-1E1B4B?style=flat-square&logo=amazonaws&logoColor=EC4899" />
+      <img src="https://img.shields.io/badge/GuardDuty-1E1B4B?style=flat-square&logo=amazonaws&logoColor=EC4899" />
+      <img src="https://img.shields.io/badge/CloudTrail-1E1B4B?style=flat-square&logo=amazonaws&logoColor=EC4899" />
+      <img src="https://img.shields.io/badge/IAM_Hardening-1E1B4B?style=flat-square&logoColor=EC4899" />
+    </td>
+    <td width="50%" valign="top">
+      <b>⚙️ Programming & Automation</b><br>
+      <img src="https://img.shields.io/badge/Python-1E1B4B?style=flat-square&logo=python&logoColor=E2E8F0" />
+      <img src="https://img.shields.io/badge/Bash-1E1B4B?style=flat-square&logo=gnubash&logoColor=E2E8F0" />
+      <img src="https://img.shields.io/badge/JavaScript-1E1B4B?style=flat-square&logo=javascript&logoColor=E2E8F0" />
+      <img src="https://img.shields.io/badge/Linux-1E1B4B?style=flat-square&logo=linux&logoColor=E2E8F0" />
+      <img src="https://img.shields.io/badge/Git-1E1B4B?style=flat-square&logo=git&logoColor=E2E8F0" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### ✦ Elite Operations
+
+| Deploy Status | Project & Telemetry Data | Tech Infrastructure |
+|:---:|:---|:---|
+| 🟢 | **[Bug Bounty Commands Generator](https://bugbounty-commands.vercel.app/)**<br>An open-source, web-based tool to instantly browse and copy categorized commands for common pentesting tasks. | `React` `JavaScript` `Automation` |
+| 🟢 | **[Automated File Forensics Tool](https://github.com/HackByteX/FileExtractor)**<br>Developed a Python-based CLI tool to extract specific file types from large directory structures for digital forensics workflows. | `Python` `Forensics` `CLI Scripting` |
+| 🛡️ | **Web Application Security Assessment**<br>Conducted an in-depth security assessment of a web app following OWASP WSTG v4.2 methodology. Identified 27 vulnerabilities. | `OWASP` `Pentesting` `AppSec` |
+| 🌩️ | **Cloud Security Audit (AWS)**<br>Performed security audit of AWS cloud infrastructure following CIS benchmarks. Identified misconfigurations & implemented monitoring. | `AWS` `IAM` `Cloud Security` |
+
+<br>
+
+### ✦ Mission Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HackByteX&show_icons=true&theme=github_dark_dimmed&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackByteX&layout=compact&theme=github_dark_dimmed&hide_border=true" width="49%" />
-  
-  <br />
-  
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HackByteX&theme=github-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HackByteX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=HackByteX&theme=tokyonight&hide_border=true&background=0D1117" width="49%" />
+  <br>
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=HackByteX&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
-<br />
+<br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HackByteX&style=flat-square&color=2563EB" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=HackByteX&style=flat-square&color=A855F7" />
 </div>
