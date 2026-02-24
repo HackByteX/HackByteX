@@ -1,77 +1,91 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=MUHAMMED%20AFSAL%20C&fontSize=70&animation=twinkling&fontAlignY=40&fontColor=FFFFFF" width="100%" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=HACKBYTEX%20//%20OPERATIONS&fontSize=50&fontAlignY=45&fontColor=A855F7&animation=twinkling" width="100%" />
+  
+  <br/>
 
-<div align="center">
-  <h3>✨ S T R A T E G I C • S E C U R I T Y • A N A L Y S T ✨</h3>
-  <p>Exploring the intersection of Cloud Resilience and Offensive Innovation.</p>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/CERTIFIED-CEH-3D52D5?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/SPECIALIZATION-AWS_SECURITY-00C9FF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/EXPERTISE-VAPT-7A1CAC?style=for-the-badge&logoColor=white" />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/muhammedafsalc/"><img src="https://img.shields.io/badge/Reach_Me-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:muhammedafsalself@gmail.com"><img src="https://img.shields.io/badge/Direct_Line-Email-D44638?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://rootedbyafsal.vercel.app"><img src="https://img.shields.io/badge/Visual_Portfolio-Check_Here-6366F1?style=flat-square&logoColor=white" /></a>
+  <table>
+    <tr>
+      <td align="center" width="60%">
+        <h3>📂 PERSONNEL FILE: MUHAMMED AFSAL C</h3>
+        <p align="left"><b>ROLE:</b> Strategic Security Analyst<br/><b>FOCUS:</b> Cloud Resilience • Offensive Innovation<br/><b>STATUS:</b> <img src="https://img.shields.io/badge/ACTIVE-OPERATIONAL-success?style=flat-square&color=EC4899" /></p>
+      </td>
+      <td align="center" width="40%">
+        <img src="https://img.shields.io/badge/CERTIFIED-CEH-A855F7?style=for-the-badge" /><br/>
+        <img src="https://img.shields.io/badge/CLOUD-AWS_SECURITY-EC4899?style=for-the-badge" /><br/>
+        <img src="https://img.shields.io/badge/EXPERTISE-VAPT-A855F7?style=for-the-badge" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 🌌 SYSTEM OVERVIEW
-> Developing high-fidelity security architectures and automated vulnerability assessment frameworks. Focused on bridging the gap between raw exploit data and actionable defensive strategies.
+### ⚡ OPERATIONAL OVERVIEW
+Developing high-fidelity security architectures and automated vulnerability assessment frameworks. Bridging the gap between raw exploit data and actionable defensive strategies.
 
-*   **Cloud Operations:** Hardening enterprise-scale AWS infrastructures.
-*   **Security Research:** Investigating automated forensic analysis and zero-day paths.
-*   **Offensive Practice:** High-velocity VAPT across diverse technical stacks.
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="33%" align="center">
+        <b>OFFENSIVE</b><br/>
+        <img src="https://img.shields.io/badge/Nmap-000000?style=flat&logo=linux&logoColor=A855F7" /><br/>
+        <img src="https://img.shields.io/badge/Burp_Suite-000000?style=flat&logo=burp-suite&logoColor=EC4899" />
+      </td>
+      <td width="33%" align="center">
+        <b>DEFENSIVE</b><br/>
+        <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=A855F7" /><br/>
+        <img src="https://img.shields.io/badge/SIEM-HARDENING-EC4899?style=flat" />
+      </td>
+      <td width="33%" align="center">
+        <b>AUTOMATION</b><br/>
+        <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=A855F7" /><br/>
+        <img src="https://img.shields.io/badge/Bash-000000?style=flat&logo=gnu-bash&logoColor=EC4899" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### ⚙️ OPERATIONAL STACK
+### 📊 MISSION TELEMETRY
 <div align="center">
-  <code><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></code>
-  <code><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /></code>
-  <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></code>
-  <code><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></code>
-  <br>
-  <code><img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=linux&logoColor=white" /></code>
-  <code><img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white" /></code>
-  <code><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" /></code>
-  <code><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></code>
+  <img src="https://github-readme-stats.vercel.app/api?username=HackByteX&show_icons=true&theme=tokyonight&hide_border=false&border_color=A855F7&title_color=EC4899&icon_color=A855F7&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackByteX&layout=compact&theme=tokyonight&hide_border=false&border_color=A855F7&title_color=EC4899&icon_color=A855F7&bg_color=0D1117" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HackByteX&theme=tokyonight&hide_border=false&area=true&bg_color=0D1117&color=A855F7&line=EC4899&point=A855F7&border=A855F7" />
 </div>
 
 ---
 
 ### 🛡️ ACTIVE REPOSITORIES
-| PROJECT | OBJECTIVE | STACK |
+| SYSTEM | OBJECTIVE | CLASSIFICATION |
 | :--- | :--- | :--- |
-| **[Bug Bounty Gen](https://bugbounty-commands.vercel.app/)** | Automated Command Hub | `Security` `Automation` |
-| **[File Extractor](https://github.com/HackByteX/FileExtractor)** | Digital Forensics Suite | `Python` `Forensics` |
-| **[AWS Audit](https://github.com/HackByteX)** | Multi-Region Auditing | `AWS` `Boto3` |
-
----
-
-### 📈 CORE TELEMETRY
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HackByteX&show_icons=true&theme=nightowl&hide_border=true&title_color=6366F1&text_color=E2E8F0&icon_color=00C9FF&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackByteX&layout=compact&theme=nightowl&hide_border=true&title_color=6366F1&text_color=E2E8F0&bg_color=0D1117" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HackByteX&theme=night-owl&hide_border=true&area=true&bg_color=0D1117&color=6366F1&line=6366F1&point=00C9FF" />
-</div>
+| **[Bug Bounty Gen](https://bugbounty-commands.vercel.app/)** | Automated Command Hub | `Cyber-Ops` `Automation` |
+| **[File Extractor](https://github.com/HackByteX/FileExtractor)** | Digital Forensics Suite | `Forensics` `Python` |
+| **[AWS Audit](https://github.com/HackByteX)** | Multi-Region Auditing | `Cloud-Sec` `Boto3` |
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HackByteX&style=flat-square&color=6366F1" />
-  <p><b>SYSTEM STATUS: OPTIMIZED // 2026</b></p>
+  <table width="100%">
+    <tr>
+      <td align="left">
+        <code>[STATUS] SYSTEM OPTIMIZED</code><br/>
+        <code>[ACCESS] AUTHORIZED_ONLY</code>
+      </td>
+      <td align="right">
+        <a href="https://www.linkedin.com/in/muhammedafsalc/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+        <a href="mailto:muhammedafsalself@gmail.com"><img src="https://img.shields.io/badge/-Email-D44638?style=flat-square&logo=gmail&logoColor=white" /></a>
+        <a href="https://rootedbyafsal.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-6366F1?style=flat-square" /></a>
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=HackByteX&style=flat-square&color=A855F7" />
 </div>
+
 
