@@ -44,7 +44,7 @@ Cybersecurity professional focused on identifying real-world vulnerabilities, va
       <img src="https://img.shields.io/badge/Gobuster-1E1B4B?style=flat-square&logo=kalilinux&logoColor=A855F7" />
     </td>
     <td width="50%" valign="top">
-      <b>🛡️ SOC & Defensive Security</b><br><br>
+      <b>🛡️ SOC & Defensive Security</b><br>
       <img src="https://img.shields.io/badge/Splunk-1E1B4B?style=flat-square&logo=splunk&logoColor=8B5CF6" />
       <img src="https://img.shields.io/badge/MITRE_ATT&CK-1E1B4B?style=flat-square&logoColor=8B5CF6" />
       <img src="https://img.shields.io/badge/Threat_Hunting-1E1B4B?style=flat-square&logoColor=8B5CF6" />
