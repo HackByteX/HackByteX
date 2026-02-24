@@ -1,78 +1,77 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=200&section=header&text=MUHAMMED%20AFSAL%20C&fontSize=60&animation=fadeIn&fontAlignY=40&fontColor=D4AF37" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=MUHAMMED%20AFSAL%20C&fontSize=70&animation=twinkling&fontAlignY=40&fontColor=FFFFFF" width="100%" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=D4AF37&vCenter=true&center=true&width=500&lines=STRATEGIC+SECURITY+LEADERSHIP;VAPT+%E2%80%A2+SOC+%E2%80%A2+CLOUD+ARCHITECT" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammedafsalc/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=D4AF37" /></a>
-  <a href="mailto:muhammedafsalself@gmail.com"><img src="https://img.shields.io/badge/Inquiry_via_Email-0D1117?style=flat-square&logo=gmail&logoColor=D4AF37" /></a>
-  <a href="https://rootedbyafsal.vercel.app"><img src="https://img.shields.io/badge/Digital_Portfolio-D4AF37?style=flat-square&logoColor=0D1117" /></a>
-</p>
-
----
-
 <div align="center">
-
-### ✧ THE VISION
-> *"Securing the digital frontier through precision, innovation, and strategic resilience."*
-
-Bridging offensive expertise with architectural hardening, I specialize in curating secure environments within the **AWS Cloud**, conducting high-fidelity **VAPT**, and orchestrating **SOC operations** for enterprise-grade resilience.
-
+  <h3>✨ S T R A T E G I C • S E C U R I T Y • A N A L Y S T ✨</h3>
+  <p>Exploring the intersection of Cloud Resilience and Offensive Innovation.</p>
 </div>
 
----
-
 <div align="center">
-
-### ✧ AREAS OF EXCELLENCE
-
-| STRATEGIC DOMAIN | CORE COMPETENCIES |
-| :--- | :--- |
-| **OFFENSIVE SECURITY** | `Network VAPT` • `Web Application Security` • `Exploitation Research` |
-| **DEFENSIVE ARCHITECTURE** | `Cloud Hardening (AWS)` • `SOC Management` • `SIEM Optimization` |
-| **TECHNICAL STACK** | `Python` • `Bash` • `Cloud-Native Security` • `Digital Forensics` |
-
+  <img src="https://img.shields.io/badge/CERTIFIED-CEH-3D52D5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPECIALIZATION-AWS_SECURITY-00C9FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPERTISE-VAPT-7A1CAC?style=for-the-badge&logoColor=white" />
 </div>
-
----
-
-<div align="center">
-
-### ✧ CURATED OPERATIONS
-
-**[Bug Bounty Gen](https://bugbounty-commands.vercel.app/)**
-*Advanced command repository for high-fidelity security assessments.*
-
-**[File Extractor](https://github.com/HackByteX/FileExtractor)**
-*Precision forensic utility for automated evidence acquisition.*
-
-**[AWS Audit Framework](https://github.com/HackByteX)**
-*Comprehensive security auditing suite for multi-region cloud infrastructures.*
-
-</div>
-
----
-
-<div align="center">
-
-### ✧ PERFORMANCE METRICS
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=HackByteX&show_icons=true&theme=transparent&hide_border=true&title_color=D4AF37&text_color=E2E8F0&icon_color=D4AF37&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackByteX&layout=compact&theme=transparent&hide_border=true&title_color=D4AF37&text_color=E2E8F0&bg_color=0D1117" width="48%" />
 
 <br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HackByteX&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=D4AF37&line=D4AF37&point=FFFFFF" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/muhammedafsalc/"><img src="https://img.shields.io/badge/Reach_Me-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:muhammedafsalself@gmail.com"><img src="https://img.shields.io/badge/Direct_Line-Email-D44638?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://rootedbyafsal.vercel.app"><img src="https://img.shields.io/badge/Visual_Portfolio-Check_Here-6366F1?style=flat-square&logoColor=white" /></a>
+</div>
 
+---
+
+### 🌌 SYSTEM OVERVIEW
+> Developing high-fidelity security architectures and automated vulnerability assessment frameworks. Focused on bridging the gap between raw exploit data and actionable defensive strategies.
+
+*   **Cloud Operations:** Hardening enterprise-scale AWS infrastructures.
+*   **Security Research:** Investigating automated forensic analysis and zero-day paths.
+*   **Offensive Practice:** High-velocity VAPT across diverse technical stacks.
+
+---
+
+### ⚙️ OPERATIONAL STACK
+<div align="center">
+  <code><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></code>
+  <code><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /></code>
+  <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></code>
+  <code><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></code>
+  <br>
+  <code><img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=linux&logoColor=white" /></code>
+  <code><img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white" /></code>
+  <code><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" /></code>
+  <code><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></code>
+</div>
+
+---
+
+### 🛡️ ACTIVE REPOSITORIES
+| PROJECT | OBJECTIVE | STACK |
+| :--- | :--- | :--- |
+| **[Bug Bounty Gen](https://bugbounty-commands.vercel.app/)** | Automated Command Hub | `Security` `Automation` |
+| **[File Extractor](https://github.com/HackByteX/FileExtractor)** | Digital Forensics Suite | `Python` `Forensics` |
+| **[AWS Audit](https://github.com/HackByteX)** | Multi-Region Auditing | `AWS` `Boto3` |
+
+---
+
+### 📈 CORE TELEMETRY
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HackByteX&show_icons=true&theme=nightowl&hide_border=true&title_color=6366F1&text_color=E2E8F0&icon_color=00C9FF&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackByteX&layout=compact&theme=nightowl&hide_border=true&title_color=6366F1&text_color=E2E8F0&bg_color=0D1117" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HackByteX&theme=night-owl&hide_border=true&area=true&bg_color=0D1117&color=6366F1&line=6366F1&point=00C9FF" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HackByteX&style=flat-square&color=D4AF37" />
-  <p><i>Refined & Secured // 2026</i></p>
+  <img src="https://komarev.com/ghpvc/?username=HackByteX&style=flat-square&color=6366F1" />
+  <p><b>SYSTEM STATUS: OPTIMIZED // 2026</b></p>
 </div>
 
