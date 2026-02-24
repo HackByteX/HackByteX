@@ -3,16 +3,10 @@
   <br><br>
   
   <a href="https://rootedbyafsal.vercel.app">
-<<<<<<< HEAD
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=A855F7&vCenter=true&center=true&width=600&lines=Muhammed+Afsal+C;Cyber+Security+Analyst;Cloud+%2B+Offensive+Security" />
   </a>
   <br>
   <i style="color:#A0AEC0;">"Approaching security from both attacker and defender perspectives."</i>
-=======
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=00F0FF&vCenter=true&center=true&width=600&lines=Muhammed+Afsal+C;Cyber+Security+Analyst;Cloud+%2B+Offensive+Security" />
-  </a>
-  <br>
-  <i style="color:#8A2BE2;">"Approaching security from both attacker and defender perspectives."</i>
 </div>
 
 <br>
@@ -26,7 +20,6 @@
 
 ---
 
-<<<<<<< HEAD
 ### ✦ System Overview
 
 Cybersecurity professional focused on identifying real-world vulnerabilities, validating exploitation impact, and strengthening security posture. Experienced in web application penetration testing and cloud security hardening.
@@ -34,31 +27,15 @@ Cybersecurity professional focused on identifying real-world vulnerabilities, va
 <p>
   <img src="https://img.shields.io/badge/Cert-CEH_Certified-1E1B4B?style=flat-square&logoColor=A855F7" />
   <img src="https://img.shields.io/badge/Cert-AWS_Security-1E1B4B?style=flat-square&logoColor=A855F7" />
-=======
-<h3 style="color:#00F0FF;">✦ System Overview</h3>
-
-<p style="color:#A3B8CC; line-height: 1.6;">
-Cybersecurity professional focused on identifying real-world vulnerabilities, validating exploitation impact, and strengthening security posture. Experienced in web application penetration testing and cloud security hardening.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Cert-CEH_Certified-161B22?style=flat-square&logoColor=00F0FF" />
-  <img src="https://img.shields.io/badge/Cert-AWS_Security-161B22?style=flat-square&logoColor=00F0FF" />
->>>>>>> 12fde44 (docs: apply cohesive neon cyan and pink color grading)
 </p>
 
 <br>
 
-<<<<<<< HEAD
 ### ✦ Technical Arsenal
-=======
-<h3 style="color:#00F0FF;">✦ Technical Arsenal</h3>
->>>>>>> 12fde44 (docs: apply cohesive neon cyan and pink color grading)
 
 <table>
   <tr>
     <td width="50%" valign="top">
-<<<<<<< HEAD
       <b>⚔️ Offensive Security</b><br>
       <img src="https://img.shields.io/badge/Burp_Suite-1E1B4B?style=flat-square&logo=burpsuite&logoColor=A855F7" />
       <img src="https://img.shields.io/badge/Nmap-1E1B4B?style=flat-square&logo=nmap&logoColor=A855F7" />
@@ -72,26 +49,10 @@ Cybersecurity professional focused on identifying real-world vulnerabilities, va
       <img src="https://img.shields.io/badge/MITRE_ATT&CK-1E1B4B?style=flat-square&logoColor=8B5CF6" />
       <img src="https://img.shields.io/badge/Threat_Hunting-1E1B4B?style=flat-square&logoColor=8B5CF6" />
       <img src="https://img.shields.io/badge/Log_Analysis-1E1B4B?style=flat-square&logoColor=8B5CF6" />
-=======
-      <b style="color:#FF007F;">⚔️ Offensive Security</b><br>
-      <img src="https://img.shields.io/badge/Burp_Suite-161B22?style=flat-square&logo=burpsuite&logoColor=FF007F" />
-      <img src="https://img.shields.io/badge/Nmap-161B22?style=flat-square&logo=nmap&logoColor=FF007F" />
-      <img src="https://img.shields.io/badge/Metasploit-161B22?style=flat-square&logo=metasploit&logoColor=FF007F" />
-      <img src="https://img.shields.io/badge/SQLMap-161B22?style=flat-square&logo=linux&logoColor=FF007F" />
-      <img src="https://img.shields.io/badge/Gobuster-161B22?style=flat-square&logo=kalilinux&logoColor=FF007F" />
-    </td>
-    <td width="50%" valign="top">
-      <b style="color:#8A2BE2;">🛡️ SOC & Defensive Security</b><br>
-      <img src="https://img.shields.io/badge/Splunk-161B22?style=flat-square&logo=splunk&logoColor=8A2BE2" />
-      <img src="https://img.shields.io/badge/MITRE_ATT&CK-161B22?style=flat-square&logoColor=8A2BE2" />
-      <img src="https://img.shields.io/badge/Threat_Hunting-161B22?style=flat-square&logoColor=8A2BE2" />
-      <img src="https://img.shields.io/badge/Log_Analysis-161B22?style=flat-square&logoColor=8A2BE2" />
->>>>>>> 12fde44 (docs: apply cohesive neon cyan and pink color grading)
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-<<<<<<< HEAD
       <b>🌩️ Cloud & Infrastructure (AWS)</b><br>
       <img src="https://img.shields.io/badge/Amazon_AWS-1E1B4B?style=flat-square&logo=amazonaws&logoColor=EC4899" />
       <img src="https://img.shields.io/badge/GuardDuty-1E1B4B?style=flat-square&logo=amazonaws&logoColor=EC4899" />
@@ -105,21 +66,6 @@ Cybersecurity professional focused on identifying real-world vulnerabilities, va
       <img src="https://img.shields.io/badge/JavaScript-1E1B4B?style=flat-square&logo=javascript&logoColor=E2E8F0" />
       <img src="https://img.shields.io/badge/Linux-1E1B4B?style=flat-square&logo=linux&logoColor=E2E8F0" />
       <img src="https://img.shields.io/badge/Git-1E1B4B?style=flat-square&logo=git&logoColor=E2E8F0" />
-=======
-      <b style="color:#00F0FF;">🌩️ Cloud & Infrastructure (AWS)</b><br>
-      <img src="https://img.shields.io/badge/Amazon_AWS-161B22?style=flat-square&logo=amazonaws&logoColor=00F0FF" />
-      <img src="https://img.shields.io/badge/GuardDuty-161B22?style=flat-square&logo=amazonaws&logoColor=00F0FF" />
-      <img src="https://img.shields.io/badge/CloudTrail-161B22?style=flat-square&logo=amazonaws&logoColor=00F0FF" />
-      <img src="https://img.shields.io/badge/IAM_Hardening-161B22?style=flat-square&logoColor=00F0FF" />
-    </td>
-    <td width="50%" valign="top">
-      <b style="color:#A3B8CC;">⚙️ Programming & Automation</b><br>
-      <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=A3B8CC" />
-      <img src="https://img.shields.io/badge/Bash-161B22?style=flat-square&logo=gnubash&logoColor=A3B8CC" />
-      <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=A3B8CC" />
-      <img src="https://img.shields.io/badge/Linux-161B22?style=flat-square&logo=linux&logoColor=A3B8CC" />
-      <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=A3B8CC" />
->>>>>>> 12fde44 (docs: apply cohesive neon cyan and pink color grading)
     </td>
   </tr>
 </table>
