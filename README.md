@@ -1,68 +1,78 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=OPERATOR:%20AFSAL&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=409EFF" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=200&section=header&text=MUHAMMED%20AFSAL%20C&fontSize=60&animation=fadeIn&fontAlignY=40&fontColor=D4AF37" width="100%" />
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=D4AF37&vCenter=true&center=true&width=500&lines=STRATEGIC+SECURITY+LEADERSHIP;VAPT+%E2%80%A2+SOC+%E2%80%A2+CLOUD+ARCHITECT" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammedafsalc/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=D4AF37" /></a>
+  <a href="mailto:muhammedafsalself@gmail.com"><img src="https://img.shields.io/badge/Inquiry_via_Email-0D1117?style=flat-square&logo=gmail&logoColor=D4AF37" /></a>
+  <a href="https://rootedbyafsal.vercel.app"><img src="https://img.shields.io/badge/Digital_Portfolio-D4AF37?style=flat-square&logoColor=0D1117" /></a>
+</p>
+
+---
 
 <div align="center">
-  <h1><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=32&pause=1000&color=409EFF&vCenter=true&center=true&width=500&lines=MUHAMMED+AFSAL+C;CYBER+SECURITY+ANALYST;VAPT+%E2%80%A2+SOC+%E2%80%A2+CLOUD" /></h1>
-  
-  <p align="center">
-    <code>ESTABLISHING SECURE CONNECTION...</code><br>
-    <code>[####################] 100%</code>
-  </p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/muhammedafsalc/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logoColor=409EFF&logo=linkedin" /></a>
-    <a href="mailto:muhammedafsalself@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logoColor=409EFF&logo=gmail" /></a>
-    <a href="https://rootedbyafsal.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-409EFF?style=for-the-badge&logoColor=white" /></a>
-  </p>
+### ✧ THE VISION
+> *"Securing the digital frontier through precision, innovation, and strategic resilience."*
+
+Bridging offensive expertise with architectural hardening, I specialize in curating secure environments within the **AWS Cloud**, conducting high-fidelity **VAPT**, and orchestrating **SOC operations** for enterprise-grade resilience.
+
 </div>
 
 ---
 
-### 📂 // 01. EXECUTIVE_BRIEFING
-> **Core Competency:** Transitioning from offensive exploitation to architectural defense. Specialized in AWS Cloud Security, automated forensic analysis, and enterprise-grade VAPT.
+<div align="center">
 
-- 🎯 **Current Objective:** Developing next-gen autonomous security frameworks.
-- ☁️ **Primary Domain:** Hardening multi-region AWS environments and cloud-native apps.
-- 🔬 **Intelligence:** Investigating zero-day vulnerability exploitation paths.
+### ✧ AREAS OF EXCELLENCE
 
----
-
-### 🛠️ // 02. TECHNICAL_CAPABILITIES
-
-| CATEGORY | STACK & TOOLS |
+| STRATEGIC DOMAIN | CORE COMPETENCIES |
 | :--- | :--- |
-| **OFFENSIVE** | `Nmap` • `Burp Suite` • `Metasploit` • `SQLi` • `WAPT` |
-| **DEFENSIVE** | `SOC` • `SIEM` • `Splunk` • `AWS Security` • `Hardening` |
-| **DEVELOPMENT** | `Python` • `Bash` • `JavaScript` • `Git` • `Linux` |
+| **OFFENSIVE SECURITY** | `Network VAPT` • `Web Application Security` • `Exploitation Research` |
+| **DEFENSIVE ARCHITECTURE** | `Cloud Hardening (AWS)` • `SOC Management` • `SIEM Optimization` |
+| **TECHNICAL STACK** | `Python` • `Bash` • `Cloud-Native Security` • `Digital Forensics` |
 
----
-
-### ⚔️ // 03. ACTIVE_OPERATIONS
-
-*   [**Bug Bounty Gen**](https://bugbounty-commands.vercel.app/) — *High-velocity pentesting command hub.* `Pentest` `Automation`
-*   [**File Extractor**](https://github.com/HackByteX/FileExtractor) — *Digital forensic tool for evidence preservation.* `Forensics` `Python`
-*   [**AWS Audit Framework**](https://github.com/HackByteX) — *Automated cloud security auditing suite.* `AWS` `Boto3`
-*   [**WAPT Assessment**](https://github.com/HackByteX) — *Enterprise web security evaluation methodology.* `WAPT` `Burp`
-
----
-
-### 📊 // 04. SYSTEM_TELEMETRY
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HackByteX&show_icons=true&theme=transparent&hide_border=true&title_color=409EFF&text_color=E2E8F0&icon_color=409EFF&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackByteX&layout=compact&theme=transparent&hide_border=true&title_color=409EFF&text_color=E2E8F0&bg_color=0D1117" width="48%" />
 </div>
+
+---
+
+<div align="center">
+
+### ✧ CURATED OPERATIONS
+
+**[Bug Bounty Gen](https://bugbounty-commands.vercel.app/)**
+*Advanced command repository for high-fidelity security assessments.*
+
+**[File Extractor](https://github.com/HackByteX/FileExtractor)**
+*Precision forensic utility for automated evidence acquisition.*
+
+**[AWS Audit Framework](https://github.com/HackByteX)**
+*Comprehensive security auditing suite for multi-region cloud infrastructures.*
+
+</div>
+
+---
+
+<div align="center">
+
+### ✧ PERFORMANCE METRICS
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=HackByteX&show_icons=true&theme=transparent&hide_border=true&title_color=D4AF37&text_color=E2E8F0&icon_color=D4AF37&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackByteX&layout=compact&theme=transparent&hide_border=true&title_color=D4AF37&text_color=E2E8F0&bg_color=0D1117" width="48%" />
 
 <br>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HackByteX&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=409EFF&line=409EFF&point=FFFFFF" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HackByteX&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=D4AF37&line=D4AF37&point=FFFFFF" />
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HackByteX&style=flat-square&color=409EFF" />
-  <p><code>TRANS_LOG: 2026-02-24 // SECURE_LINE: ACTIVE</code></p>
+  <img src="https://komarev.com/ghpvc/?username=HackByteX&style=flat-square&color=D4AF37" />
+  <p><i>Refined & Secured // 2026</i></p>
 </div>
 
