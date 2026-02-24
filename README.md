@@ -44,7 +44,7 @@ Cybersecurity professional focused on identifying real-world vulnerabilities, va
       <img src="https://img.shields.io/badge/Gobuster-1E1B4B?style=flat-square&logo=kalilinux&logoColor=A855F7" />
     </td>
     <td width="50%" valign="top">
-      <b>🛡️ SOC & Defensive Security</b><br>
+      <p><b>🛡️ SOC & Defensive Security</b></p>
       <img src="https://img.shields.io/badge/Splunk-1E1B4B?style=flat-square&logo=splunk&logoColor=8B5CF6" />
       <img src="https://img.shields.io/badge/MITRE_ATT&CK-1E1B4B?style=flat-square&logoColor=8B5CF6" />
       <img src="https://img.shields.io/badge/Threat_Hunting-1E1B4B?style=flat-square&logoColor=8B5CF6" />
@@ -53,14 +53,14 @@ Cybersecurity professional focused on identifying real-world vulnerabilities, va
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>🌩️ Cloud & Infrastructure (AWS)</b><br>
+      <p><b>🌩️ Cloud & Infrastructure (AWS)</b></p>
       <img src="https://img.shields.io/badge/Amazon_AWS-1E1B4B?style=flat-square&logo=amazonaws&logoColor=EC4899" />
       <img src="https://img.shields.io/badge/GuardDuty-1E1B4B?style=flat-square&logo=amazonaws&logoColor=EC4899" />
       <img src="https://img.shields.io/badge/CloudTrail-1E1B4B?style=flat-square&logo=amazonaws&logoColor=EC4899" />
       <img src="https://img.shields.io/badge/IAM_Hardening-1E1B4B?style=flat-square&logoColor=EC4899" />
     </td>
     <td width="50%" valign="top">
-      <b>⚙️ Programming & Automation</b><br>
+      <p><b>⚙️ Programming & Automation</b></p>
       <img src="https://img.shields.io/badge/Python-1E1B4B?style=flat-square&logo=python&logoColor=E2E8F0" />
       <img src="https://img.shields.io/badge/Bash-1E1B4B?style=flat-square&logo=gnubash&logoColor=E2E8F0" />
       <img src="https://img.shields.io/badge/JavaScript-1E1B4B?style=flat-square&logo=javascript&logoColor=E2E8F0" />
