@@ -36,7 +36,7 @@ Cybersecurity professional focused on identifying real-world vulnerabilities, va
 <table>
   <tr>
     <td width="50%" valign="top">
-     <div style="margin-bottom: 8px;"><b>⚔️ Offensive Security</b></div>
+     <p><b>⚔️ Offensive Security</b></p>
       <img src="https://img.shields.io/badge/Burp_Suite-1E1B4B?style=flat-square&logo=burpsuite&logoColor=A855F7" />
       <img src="https://img.shields.io/badge/Nmap-1E1B4B?style=flat-square&logo=nmap&logoColor=A855F7" />
       <img src="https://img.shields.io/badge/Metasploit-1E1B4B?style=flat-square&logo=metasploit&logoColor=A855F7" />
